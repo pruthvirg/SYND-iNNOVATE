@@ -1,0 +1,4 @@
+numbers,transactions,balance,blocked
+3456,"17-August-2019,14-August-2019: -6000 to Charity,11-August-2019: -2077 to Hostel Office",2300,TRUE
+2345,"14-August-2019: -6000 to Charity,11-August-2019: -2077 to Hostel Office",10500,FALSE
+3893,"18-August-2019: +500 from Pruthvi,17-August-2019: -24 to Om Shri,15-August-2019: +500 from Nikhil,14-August-2019: -300 to Charity,11-August-2019: -24687 to Fees",45423,FALSE

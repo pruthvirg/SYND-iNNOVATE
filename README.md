@@ -3,10 +3,7 @@ Repository for Syndicate Hackathon
 
 # Alpha A.I
 Team members:
-Pruthvi Raj R.G
-Om Shri Prasath
-Adithya Swaroop S
-Nikhil Mattapally
+Pruthvi Raj R.G,Om Shri Prasath,Adithya Swaroop S,Nikhil Mattapally
 
 # Voice based customer grievance redressal system
 
